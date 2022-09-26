@@ -19,6 +19,9 @@
     <Filter Include="源文件\NewFilter1">
       <UniqueIdentifier>{1d4a7984-048c-4afc-a057-ca165c86067d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\排序">
+      <UniqueIdentifier>{28fe0485-8305-4a78-bf37-5acb89961476}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="循环法查找.c">
@@ -32,6 +35,18 @@
     </ClCompile>
     <ClCompile Include="main方法.c">
       <Filter>源文件\查找</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="直接插入排序.c">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.c">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.c">
+      <Filter>源文件\排序</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
