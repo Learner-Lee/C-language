@@ -7,7 +7,7 @@ int main()
 
 //	insertSort(arrA, n);//插入排序
 //	bubbleSort(arrA,n);//冒泡排序
-	QuickSort(arrA, 0, n);
+	QuickSort(arrA, 0, n-1);
 	printf("数组为：\n");
 	for (int i = 0; i < 6; i++)
 	{
