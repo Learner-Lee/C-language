@@ -48,5 +48,11 @@
     <ClCompile Include="快速排序.c">
       <Filter>源文件\排序</Filter>
     </ClCompile>
+    <ClCompile Include="二路归并排序(合并排序).c">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="二路归并排序(合并排序)2.c">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
